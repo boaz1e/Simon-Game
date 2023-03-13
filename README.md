@@ -8,3 +8,9 @@ The user can make upto as many stages as they are able to.
 I added sounds to the game upon button pressing and gameover sound when the player loses. 
 
 Run Instructions: You can either download the files and open index.html with a browser or you can access this link to play the game online:
+https://boaz1e.github.io/Simon-Game/
+
+
+![image](https://user-images.githubusercontent.com/108184198/224662637-4ba17c9f-2718-4ef3-b76b-d054a90037d0.png)
+
+
